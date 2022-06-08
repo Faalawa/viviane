@@ -1,0 +1,48 @@
+.App-header {
+    background-color: black;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .like {
+    text-decoration: none;
+    border-radius: 8px;
+    /* display: inline-block; */
+    color: rgba(243, 240, 240, 0.598);
+    background-color: black;
+    font-size: 15px;
+    cursor: pointer;
+    align-self: flex-end;
+    margin-right: 20px;
+    margin-top: 0;
+  }
+
+  .span {
+    size: 10px;
+    align-self: flex-end;
+    margin-right: 30px;
+    color: rgba(243, 240, 240, 0.598);
+  }
+
+  .image {
+    width:800px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin-left: 325px;
+  }
+
+  p {
+    text-shadow: 5px;
+    font-weight: normal;
+    text-shadow: #e0e010aa;
+    text-align: center;
+  }

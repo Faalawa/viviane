@@ -1,0 +1,54 @@
+img {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.tour {
+    width: 150px;
+    height: auto;
+}
+
+.detail {
+    background-color: black;
+}
+
+.footer {
+    background-color: black;
+    min-width: 400px;
+    color: azure;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    display: block;
+    color: azure;
+    cursor: pointer;
+  }
+  a:hover {
+    color: #cd2cdb;
+    transform: rotate(2deg);
+  }
+  fieldset {
+    background-image: url("https://winrock.org/wp-content/uploads/2016/02/5274051599_9be2862e32_o_Senegal.jpg");
+    padding: 10px;
+    
+  }
+  legend {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  
+
+
+    
